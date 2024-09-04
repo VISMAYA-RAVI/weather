@@ -1,0 +1,7 @@
+#result{
+    position: relative;
+}
+
+.row1 {
+    background-image: linear-gradient(to top,rgb(163, 163, 252), rgb(77, 77, 245));
+}
